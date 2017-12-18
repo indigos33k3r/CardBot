@@ -1,0 +1,15 @@
+{
+  "name": "node-js-sample",
+  "version": "0.2.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "lib/cardbot.js",
+  "scripts": {
+    "start": "node lib/cardbot.js"
+  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZippyMagician/CardBot/"
+  }
+  "author": "Joshua Barnett"
+  "license": "MIT"
+}
