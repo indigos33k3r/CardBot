@@ -3,5 +3,8 @@
   "prefix": "c.",
   "authors": [
     "Joshua Barnett"
-  ]
+  ],
+  "backpack": {
+    "max": "10"
+  }
 }
