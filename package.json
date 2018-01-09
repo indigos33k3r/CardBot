@@ -5,11 +5,11 @@
   "main": "lib/cardbot.js",
   "scripts": {
     "start": "node lib/cardbot.js"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ZippyMagician/CardBot/"
-  }
-  "author": "Joshua Barnett"
+  },
+  "author": "Joshua Barnett",
   "license": "MIT"
 }
