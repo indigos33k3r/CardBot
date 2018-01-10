@@ -5,18 +5,23 @@ git -v
 npm -v
 
 echo Creating Directory...
-mkdir C:/Users/Public/ZipBot
-cd C:/Users/Public/ZipBot
+mkdir C:/Users/Public/CardBot
+cd C:/Users/Public/CardBot
 echo Done!
-echo \n
+echo ---
 
 echo Installing dependencies...
 git clone https://github.com/ZippyMagician/CardBot.git
-npm install nodemon -g
-npm install discord.js
-npm install snekfetch --save
+echo Installed!
+echo ---
+echo ---
+echo Open a seperate terminal in this folder and use the following 3 commands
+echo ---
+echo npm install nodemon -g
+echo npm install discord.js
+echo npm install snekfetch --save
 echo Done!
-echo \n
+echo ---
 
 echo Press Enter to exit
 pause
