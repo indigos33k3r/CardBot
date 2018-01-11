@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "emoji": "🛒",
+      "name": "Shopping Cart"
+    },
+    {
+      "emoji": "🎉",
+      "name": "Party Popper"
+    },
+    {
+      "emoji": "💸",
+      "name": "Money with Wings"
+    },
+    {
+      "emoji": "💰",
+      "name": "Money Bag"
+    },
+    {
+      "emoji": "💎",
+      "name": "Diamond"
+    },
+    {
+      "emoji": "💵",
+      "name": "Dollar BankNote"
+    },
+    {
+      "emoji": "✏️",
+      "name": "Pencil"
+    },
+    {
+      "emoji": "😂",
+      "name": "Face with Tears"
+    },
+    {
+      "emoji": "😭",
+      "name": "Loudly Crying Face"
+    },
+    {
+      "emoji": "🤔",
+      "name": "Thinking Face"
+    }
+  ]
+}
