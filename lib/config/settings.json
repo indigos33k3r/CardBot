@@ -5,9 +5,10 @@
   },
   "prefix": "c.",
   "authors": [
-    "Joshua Barnett"
+    "Joshua Barnett",
+    "James Hendriz"
   ],
   "backpack": {
-    "max": "10"
+    "max": "50"
   }
 }
