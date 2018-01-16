@@ -6,9 +6,10 @@
   "prefix": "c.",
   "authors": [
     "Joshua Barnett",
-    "James Hendriz"
+    "James Hen"
   ],
   "backpack": {
     "max": "50"
-  }
+  },
+  "daily-reward": "150"
 }
