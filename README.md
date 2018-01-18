@@ -9,3 +9,5 @@ CardBot is a fast, powerful, and fun trading card discord bot that adds some exc
 
 _NOTE: CardBot is simply made for testing and for fun, and I admit some ideas were taken from Discord Cards. I ONLY MADE THIS FOR FUN, DONT GET MAD!!_
 
+## Making a Discord Bot
+Bored? Want to make a Discord Bot? If you go to the `developer` branch in this project you can download this with NO extra files AND a tutorial!
