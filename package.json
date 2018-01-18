@@ -1,5 +1,5 @@
 {
-  "name": "tutorial-bot"
+  "name": "tutorial-bot",
   "description": "A Discord Bot",
   "main": "lib/bot.js",
   "scripts": {
