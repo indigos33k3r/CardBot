@@ -1,15 +1,15 @@
 {
+  "name": "YOUR BOT NAME",
   "token": {
-    "bot": "bot-token",
-    "list": "discord-bots-api-token"
+    "bot": "YOUR BOT TOKEN"
   },
-  "prefix": "c.",
+  "prefix": "YOUR BOT PREFIX",
   "authors": [
-    "Joshua Barnett",
-    "James Hen"
+    "YOUR NAME HERE"
   ],
-  "backpack": {
-    "max": "50"
-  },
-  "daily-reward": "150"
+  "mysql": {
+    "server": "TRUE IF MYSQL SERVER",
+    "password": "YOUR SERVER PASSWORD",
+    "name": "YOUR SERVER NAME"
+  }
 }
