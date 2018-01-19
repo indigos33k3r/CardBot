@@ -21,5 +21,6 @@ call start C:/Users/Public/CardBot/Install/mysql.bat
 echo Done!
 echo ---
 
-echo Press Enter to exit
-pause
+echo Closing...
+call start C:/Users/Public/CardBot/Install/finish.bat
+exit
