@@ -11,6 +11,6 @@
   },
   "carddata": {
     "id": "VARCHAR(100) NOT NULL",
-    "card{num}": "VARCHAR(100) NOT NULL"
+    "card[1 to 50]": "VARCHAR(100) NOT NULL"
   }
 }
