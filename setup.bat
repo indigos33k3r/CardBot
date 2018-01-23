@@ -4,6 +4,11 @@ echo If you do not see 2 lines of numbers, install Git Bash and Node.js
 git -v
 npm -v
 
+echo You are using the test branch for installation
+echo If you believe this is a mistake, close the batch file
+
+echo ---
+
 echo Creating Directory...
 mkdir C:/Users/Public/CardBot
 cd C:/Users/Public/CardBot
