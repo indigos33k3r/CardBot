@@ -4,7 +4,12 @@
   "description": "A Discord Bot",
   "main": "lib/cardbot.js",
   "scripts": {
-    "start": "nodemon lib/cardbot.js"
+    "start": "node lib/cardbot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "snekfetch": "^3.6.1",
+    "mysql": "^2.15.0"
   },
   "repository": {
     "type": "git",
