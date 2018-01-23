@@ -16,7 +16,7 @@ echo Done!
 echo ---
 
 echo Installing dependencies...
-git clone https://github.com/ZippyMagician/CardBot.git
+git clone git://github.com/ZippyMagician/CardBot.git
 echo Installed!
 echo ---
 call start C:/Users/Public/CardBot/Install/nodemon.bat
