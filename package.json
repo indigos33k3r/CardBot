@@ -6,11 +6,6 @@
   "scripts": {
     "start": "node lib/cardbot.js"
   },
-  "dependencies": {
-    "discord.js": "^11.3.0",
-    "snekfetch": "^3.6.1",
-    "mysql": "^2.15.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ZippyMagician/CardBot/"
