@@ -3,6 +3,7 @@ node_js:
   - 8
   - 9
 install: npm install
+script: bash ./test/test.sh
 cache:
   directories:
     - node_modules
