@@ -5,7 +5,7 @@
   "main": "lib/cardbot.js",
   "scripts": {
     "start": "nodemon lib/cardbot.js",
-    "test": "Echo starting... && node test/cardbot.js"
+    "test": "node test/cardbot.js"
   },
   "dependencies": {
     "discord.js": "^11.2.0",
