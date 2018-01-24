@@ -6,4 +6,6 @@ install: npm install
 cache:
   directories:
     - node_modules
+    - _gen
+    - mysql
 sudo: false
