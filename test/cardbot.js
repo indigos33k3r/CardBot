@@ -16,3 +16,5 @@ console.log("Test start:");
 test.testAll();
 
 console.log("Test successful");
+
+process.exit()
