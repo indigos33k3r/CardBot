@@ -1,1 +1,14 @@
-NULL
+BUILD ON MASTER: SUCCESS
+
+BUILD_PREVIOUS:
+ - CONNECT: SUCCESS
+ - BUILD[INIT]: SUCCESS
+ - BUILD[SH]: SUCCESS
+ - BUILD[JS]: SUCCESS
+ - COMMIT: SUCCESS
+BUILD_AFTER:
+ - LOG: YES
+ - DATA: SNIPPET
+ - PARAMS: NONE
+SCRIPT: $(bash ./build/init.sh)
+LOG: url(https://travis-ci.org/ZippyMagician/CardBot/builds)
