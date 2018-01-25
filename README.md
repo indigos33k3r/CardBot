@@ -7,9 +7,7 @@
   <p>
     <a href="https://travis-ci.org/ZippyMagician/CardBot"><img src="https://api.travis-ci.org/ZippyMagician/CardBot.svg?branch=master" alt="build" /></a>
     <a href="https://david-dm.org/ZippyMagician/CardBot"><img src="https://david-dm.org/ZippyMagician/CardBot.svg" alt="Dependents" /></a>
-  </p>
-  <p>
-    <a href="https://github.com/Card-Bot/card-bot.github.io">Website</a>
+    <a href="https://card-bot.github.io"><img src="https://card-bot.github.io/api/assets/status.svg" alt="Website status" /></a>
   </p>
 </div>
 
