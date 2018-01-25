@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon lib/cardbot.js",
     "test:js": "node test/cardbot.js",
-    "test:card": "bash ./test/cardbot.sh"
+    "test:card": "bash ./test/cardbot.sh && npm run test:js"
   },
   "dependencies": {
     "discord.js": "^11.2.0",
