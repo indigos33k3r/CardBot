@@ -18,3 +18,7 @@ _NOTE: CardBot is simply made for testing and for fun, and I admit some ideas we
 
 ## Making a Discord Bot
 Bored? Want to make a Discord Bot? If you go to the `developer` branch in this project you can download this with NO extra files AND a tutorial!
+
+## Website
+* [Repository](https://github.com/Card-Bot/card-bot.github.io)
+* [Website](https://card-bot.github.io)
