@@ -3,12 +3,8 @@ node_js:
   - 8
   - 9
 install: npm install
-script: bash ./test/test.sh
+script: bash ./test/init.sh
 cache:
   directories:
     - node_modules
-    - _gen
-    - mysql
-    - install
-    - assets
 sudo: false
