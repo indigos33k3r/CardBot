@@ -3,7 +3,7 @@
   "description": "A Discord Bot",
   "main": "lib/bot.js",
   "scripts": {
-    "start": "node lib/bot.js"
+    "start": "nodemon lib/bot.js"
   },
   "license": "MIT"
 }
