@@ -20,4 +20,5 @@ else
 fi
 
 # Run the tests
-npm test
+npm test:js
+npm test:card
