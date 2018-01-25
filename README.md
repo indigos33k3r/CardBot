@@ -8,9 +8,10 @@
     <a href="https://travis-ci.org/ZippyMagician/CardBot"><img src="https://api.travis-ci.org/ZippyMagician/CardBot.svg?branch=master" alt="build" /></a>
     <a href="https://david-dm.org/ZippyMagician/CardBot"><img src="https://david-dm.org/ZippyMagician/CardBot.svg" alt="Dependents" /></a>
   </p>
+  <p>
+    <a href="https://github.com/Card-Bot/card-bot.github.io">Website</a>
+  </p>
 </div>
-
-<a href="https://github.com/Card-Bot/card-bot.github.io">Website</a>
 
 ## About CardBot
 CardBot is a fast, powerful, and fun trading card discord bot that adds some excitement to your discord server.
