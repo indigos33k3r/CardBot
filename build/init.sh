@@ -20,4 +20,4 @@ else
 fi
 
 # Run the tests
-npm run test:card
+npm run build:card
