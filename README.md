@@ -1,6 +1,14 @@
-# <img src="https://card-bot.github.io/assets/image.png" height="128" width="128"><img src="https://card-bot.github.io/assets/logo.png">
-[![Travis](https://api.travis-ci.org/ZippyMagician/CardBot.svg?branch=master)](https://travis-ci.org/ZippyMagician/CardBot)[![David](https://david-dm.org/ZippyMagician/CardBot.svg)](https://david-dm.org/ZippyMagician/CardBot)<br>
-The GitHub for CardBot
+<div align="center">
+  <br />
+  <p>
+    <a href="https://card-bot.github.io"><img src="https://card-bot.github.io/assets/image.png" height="128" width="128"><img src="https://card-bot.github.io/assets/logo.png" alt="cardbot"></a>
+  </p>
+  <br />
+  <p>
+    <a href="https://travis-ci.org/ZippyMagician/CardBot"><img src="https://api.travis-ci.org/ZippyMagician/CardBot.svg?branch=master" alt="build" /></a>
+    <a href="https://david-dm.org/ZippyMagician/CardBot"><img src="https://david-dm.org/ZippyMagician/CardBot.svg" alt="Dependents" /></a>
+  </p>
+</div>
 
 <a href="https://github.com/Card-Bot/card-bot.github.io">Website</a>
 
