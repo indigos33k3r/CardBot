@@ -19,10 +19,7 @@ else
   echo -e "\e[36m\e[1mTest triggered for branch \"${TRAVIS_BRANCH}\"."
 fi
 
-# Run the tests
-cd build/cache
-
-echo "BUILD TRIGGERED IN \"${TRAVIS_BRANCH}\": BUILD SUCCESS" > build.dat
+# Run the build
 echo -e "\e[36m\e[1m[BUILD TRIGGERED IN \"${TRAVIS_BRANCH}\": BUILD SUCCESS] successful print"
 
 npm run build:card
