@@ -8,6 +8,7 @@
     <a href="https://travis-ci.org/ZippyMagician/CardBot"><img src="https://api.travis-ci.org/ZippyMagician/CardBot.svg?branch=master" alt="build" /></a>
     <a href="https://david-dm.org/ZippyMagician/CardBot"><img src="https://david-dm.org/ZippyMagician/CardBot.svg" alt="Dependents" /></a>
     <a href="https://card-bot.github.io"><img src="https://card-bot.github.io/api/assets/status.svg" alt="Website status" /></a>
+    <a href="https://card-bot.github.io/donate"><img src="https://card-bot.github.io/api/assets/donate.svg" alt="Patreon" /></a>
   </p>
 </div>
 
