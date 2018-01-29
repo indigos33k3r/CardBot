@@ -1,5 +1,5 @@
 # <img src="https://card-bot.github.io/assets/image.png" height="128" width="128"><img src="https://card-bot.github.io/assets/logo.png">
-[![Discord Bots](https://raw.githubusercontent.com/ZippyMagician/CardBot/master/assets/library.png)](https://card-bot.github.io) [![Discord Bots](https://raw.githubusercontent.com/ZippyMagician/CardBot/master/assets/owner.png)](https://card-bot.github.io)<br>
+[![Build](https://travis-ci.org/ZippyMagician/CardBot.svg?branch=developer)](https://card-bot.github.io)
 The GitHub for CardBot
 
 <a href="https://github.com/Card-Bot/card-bot.github.io">Website</a>
