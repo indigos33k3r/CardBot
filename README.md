@@ -10,6 +10,7 @@
     <a href="https://card-bot.github.io"><img src="https://card-bot.github.io/api/assets/status.svg" alt="Website status" /></a>
     <a href="https://github.com/ZippyMagician/CardBot"><img src="https://img.shields.io/badge/version-1.3.0-blue.svg" alt="Version" /></a>
     <a href="https://card-bot.github.io/donate/"><img src="https://img.shields.io/badge/donate-patreon-red.svg" alt="Patreon" /></a>
+    <a href="https://card-bot.github.io"><img src="https://img.shields.io/badge/discord-bot-yellow.svg?logo=discord" alt="Type" /></a>
   </p>
 </div>
 
@@ -24,5 +25,3 @@ Bored? Want to make a Discord Bot? If you go to the `developer` branch in this p
 ## Website
 * [Repository](https://github.com/Card-Bot/card-bot.github.io)
 * [Website](https://card-bot.github.io)
-
-![test](https://img.shields.io/badge/discord-bot-yellow.svg?logo=discord)
