@@ -25,4 +25,4 @@ Bored? Want to make a Discord Bot? If you go to the `developer` branch in this p
 * [Repository](https://github.com/Card-Bot/card-bot.github.io)
 * [Website](https://card-bot.github.io)
 
-![test](https://img.shields.io/badge/discord-bot-yellow.svg?logo=appveyor)
+![test](http://tny.im/bZ2)
