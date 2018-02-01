@@ -1,13 +1,13 @@
 @echo off
-cd C:/Users/Public/CardBot
+cd CardBot
 
 echo Updating...
-git clone git://github.com/ZippyMagician/CardBot.git
+git clone -b master --single-branch https://github.com/ZippyMagician/CardBot.git
 
-call start C:/Users/Public/CardBot/Install/nodemon.bat
-call start C:/Users/Public/CardBot/Install/discord.js.bat
-call start C:/Users/Public/CardBot/Install/snekfetch.bat
-call start C:/Users/Public/CardBot/Install/mysql.bat
+call start /Install/nodemon.bat
+call start /Install/discord.js.bat
+call start /Install/snekfetch.bat
+call start /Install/mysql.bat
 
 echo Done!
 echo ---
