@@ -10,7 +10,7 @@
     <a href="https://card-bot.github.io"><img src="https://card-bot.github.io/api/assets/status.svg" alt="Website status" /></a>
     <a href="https://github.com/ZippyMagician/CardBot"><img src="https://img.shields.io/badge/version-1.3.0-blue.svg" alt="Version" /></a>
     <a href="https://card-bot.github.io/donate/"><img src="https://img.shields.io/badge/donate-patreon-red.svg" alt="Patreon" /></a>
-    <a href="https://discordapp.com/developers"><img src="https://img.shields.io/badge/discord-bot-yellow.svg?logo=discord" alt="Type" /></a>
+    <a href="https://github.com/discordjs/discord.js"><img src="https://img.shields.io/badge/discord-js-blue.svg?logo=discord" alt="API" /></a>
   </p>
 </div>
 
