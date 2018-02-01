@@ -4,23 +4,18 @@ echo If you do not see 2 lines of numbers, install Git Bash and Node.js
 git -v
 npm -v
 
-echo Creating Directory...
-mkdir C:/Users/Public/CardBot
-cd C:/Users/Public/CardBot
-echo Done!
-echo ---
-
 echo Installing dependencies...
-git clone git://github.com/ZippyMagician/CardBot.git
+git clone -b master --single-branch https://github.com/ZippyMagician/CardBot.git CardBot
+cd CardBot
 echo Installed!
 echo ---
-call start C:/Users/Public/CardBot/Install/nodemon.bat
-call start C:/Users/Public/CardBot/Install/discord.js.bat
-call start C:/Users/Public/CardBot/Install/snekfetch.bat
-call start C:/Users/Public/CardBot/Install/mysql.bat
+call start /Install/nodemon.bat
+call start /Install/discord.js.bat
+call start /Install/snekfetch.bat
+call start /Install/mysql.bat
 echo Done!
 echo ---
 
 echo Closing...
-call start C:/Users/Public/CardBot/Install/finish.bat
+call start /Install/finish.bat
 exit
