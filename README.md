@@ -19,8 +19,11 @@ CardBot is a fast, powerful, and fun trading card discord bot that adds some exc
 
 _NOTE: CardBot is simply made for testing and for fun, and I admit some ideas were taken from Discord Cards. I ONLY MADE THIS FOR FUN, DONT GET MAD!!_
 
-## Making a Discord Bot
-Bored? Want to make a Discord Bot? If you go to the `developer` branch in this project you can download this with NO extra files AND a tutorial!
+## Installation
+To install, go do [This website](https://card-bot.github.io/downloads/) and click the 3 download links. Then, move all 3 download files(they will be `.bat` files) to the folder you want. Once they are moved(out of `downloads`) run the `install.bat` file. 
+
+This will create a `CardBot` folder with all of the files inside. Then run `cardbot.bat` to run and `update.bat` to update. 
+DO NOT MOVE THE FILES INTO THE `CardBot` FOLDER.
 
 ## Website
 * [Repository](https://github.com/Card-Bot/card-bot.github.io)
