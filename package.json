@@ -1,6 +1,6 @@
 {
   "name": "card-bot",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "A Discord Bot",
   "main": "lib/cardbot.js",
   "scripts": {
