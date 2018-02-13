@@ -6,3 +6,4 @@
 * **bet (AMOUNT)** - _Bets a certain amount of money in the lottery_
 * **daily** - _Gets your daily reward_
 * **findcard (CARD NAME)** - _Searches the https://card-bot.github.io/api/cards/all.json api to find a matching card_
+* **backpack** - _Gives you a list of all your cards(in your backpack)_
