@@ -9,13 +9,13 @@ git clone -b master --single-branch https://github.com/ZippyMagician/CardBot.git
 cd CardBot
 echo Installed!
 echo ---
-call start /Install/nodemon.bat
-call start /Install/discord.js.bat
-call start /Install/snekfetch.bat
-call start /Install/mysql.bat
+call start /install/nodemon.bat
+call start /install/discord.js.bat
+call start /install/snekfetch.bat
+call start /install/mysql.bat
 echo Done!
 echo ---
 
 echo Closing...
-call start /Install/finish.bat
+call start /install/finish.bat
 exit
