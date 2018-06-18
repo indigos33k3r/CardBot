@@ -5,8 +5,8 @@
   "main": "lib/cardbot.js",
   "scripts": {
     "start": "nodemon lib/cardbot.js",
-    "build:js": "node build/cardbot.js",
-    "build:card": "bash ./build/cardbot.sh && npm run build:js"
+    "build:card:js": "node build/cardbot.js",
+    "build:card": "bash ./build/cardbot.sh && npm run build:card:js"
   },
   "dependencies": {
     "discord.js": "^11.2.0",
