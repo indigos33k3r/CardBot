@@ -1,5 +1,4 @@
 @echo off
-cd CardBot
 
 echo Updating...
 git clone -b master --single-branch https://github.com/ZippyMagician/CardBot.git
