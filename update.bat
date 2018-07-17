@@ -3,10 +3,10 @@
 echo Updating...
 git clone -b master --single-branch https://github.com/ZippyMagician/CardBot.git
 
-call start /Install/nodemon.bat
-call start /Install/discord.js.bat
-call start /Install/snekfetch.bat
-call start /Install/mysql.bat
+call start /CardBot/Install/nodemon.bat
+call start /CardBot/Install/discord.js.bat
+call start /CardBot/Install/snekfetch.bat
+call start /CardBot/Install/mysql.bat
 
 echo Done!
 echo ---
