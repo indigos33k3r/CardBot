@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "discord.js": "^11.2.0",
-    "snekfetch": "^3.2.1",
+    "snekfetch": "^4.0.0",
     "mysql": "^2.15.0"
   },
   "repository": {
