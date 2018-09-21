@@ -20,7 +20,7 @@ CardBot is a fast, powerful, and fun trading card discord bot that adds some exc
 _NOTE: CardBot is simply made for testing and for fun, and I admit some ideas were taken from Discord Cards. I ONLY MADE THIS FOR FUN, DONT GET MAD!!_
 
 ## Installation
-Note: Install [Git Bash](https://git-scm.com/download/win) and [Node.js](https://nodejs.org/en/) first if you have not already, and make sure Git Bash is set to run in ANY TERMINAL.
+Note: Install [Git Bash](https://git-scm.com/download/win) and [Node.js](https://nodejs.org/en/download/current/) first if you have not already, and make sure Git Bash is set to run in ANY TERMINAL.
 
 To install, go do [This website](https://card-bot.github.io/downloads/) and click the download link. Then, extract the contents into the folder you want. Once they are extracted run the `install.bat` file. 
 
