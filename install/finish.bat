@@ -2,7 +2,8 @@
 echo Hey!
 echo Just setting a few things up...
 echo ---
-cd C:/Users/Public/CardBot
+mkdir C:\Documents\CardBot\Logs
+cd C:\Documents\CardBot\Logs
 echo Done!
 echo ---
 echo Don't forget to install MySQL!
