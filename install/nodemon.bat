@@ -1,2 +1,1 @@
-cd C:/Users/Public/CardBot
-npm install nodemon -g
+npm install -g nodemon
