@@ -22,10 +22,9 @@ _NOTE: CardBot is simply made for testing and for fun, and I admit some ideas we
 ## Installation
 Note: Install [Git Bash](https://git-scm.com/download/win) and [Node.js](https://nodejs.org/en/download/current/) first if you have not already, and make sure Git Bash is set to run in ANY TERMINAL.
 
-To install, go do [This website](https://card-bot.github.io/downloads/) and click the download link. Then, extract the contents into the folder you want. Once they are extracted run the `install.bat` file. 
-
-This will create a `CardBot` folder with all of the files inside. Then run `cardbot.bat` to run and `update.bat` to update. 
-DO NOT MOVE THE FILES INTO THE `CardBot` FOLDER.
+- Run `git clone https://www.github.com/ZippyMagician/CardBot.git`
+- Navigate into the new folder, and run `sudo bash ./install.bat`
+- Now you can edit the settings and fill in the required fields, and then just run `cardbot.bat` to run the bot and `update.bat` to update
 
 ## Website
 * [Repository](https://github.com/Card-Bot/card-bot.github.io)
